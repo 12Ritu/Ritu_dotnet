@@ -1,0 +1,15 @@
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.csproj.AssemblyReference.cache
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.AssemblyInfo.cs
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ApexRestaurant.Services.deps.json
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ApexRestaurant.Services.dll
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ref\ApexRestaurant.Services.dll
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ApexRestaurant.Services.pdb
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ApexRestaurant.Repository.dll
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\bin\Debug\net5.0\ApexRestaurant.Repository.pdb
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.csproj.CopyComplete
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.dll
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ref\ApexRestaurant.Services.dll
+D:\Lab\ApexRestaurant\ApexRestaurant.Services\obj\Debug\net5.0\ApexRestaurant.Services.pdb
