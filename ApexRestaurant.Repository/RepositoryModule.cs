@@ -9,9 +9,7 @@ namespace ApexRestaurant.Repository
         public static void Register(IServiceCollection services, string connection, 
         string migrationsAssembly)
         {
-            services.AddDbContext<RestaurantContext>(options => 
-            options.UseNpgsql(connection, builder => 
-            builder.MigrationsAssembly(migrationsAssembly)));
+            services.AddDbContext<RestaurantContext>(options => options.UseNpgsql(connection, builder => builder.MigrationsAssembly(migrationsAssembly)));
             services.AddTransient<ICustomerRepository, CustomerRepository>();
         }
      }

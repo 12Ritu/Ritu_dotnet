@@ -1,6 +1,5 @@
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\ApexRestaurant.Mvc.StaticWebAssets.xml
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\app.db
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\ApexRestaurant.Mvc.exe
@@ -63,7 +62,6 @@ D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\runtimes\win-ar
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.csprojAssemblyReference.cache
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.AssemblyInfoInputs.cache
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.AssemblyInfo.cs
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.csproj.CoreCompileInputs.cache
@@ -92,3 +90,8 @@ D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\staticwebassets
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.dll
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.pdb
 D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.genruntimeconfig.cache
+D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.csproj.AssemblyReference.cache
+D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\ApexRestaurant.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApexRestaurant.Mvc.styles.css
+D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\Razor\Controllers\ViewStart.cshtml.g.cs
+D:\Lab\ApexRestaurant\ApexRestaurant.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UKAn9NgDYSo10VoRGDZXjaMtJAG+vaaoli6wMAWDCxh3F7w9pSemU7EV3NuLu5Z45Ybdg2NmXQPofQMk8QuwAg==",
+  "dgSpecHash": "E/L+fCaB5sq/f3fTt/MLhzBLACJd245Cq8CDfktnw3eVw6fB8aEs1Y/s3HzMPUIq0KOppJMlwVNe/MEA1EY8uA==",
   "success": true,
   "projectFilePath": "D:\\Lab\\ApexRestaurant\\ApexRestaurant.Mvc\\ApexRestaurant.Mvc.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,7 @@
     "C:\\Users\\Ritu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.19\\microsoft.extensions.logging.abstractions.3.1.19.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\microsoft.extensions.options\\3.1.19\\microsoft.extensions.options.3.1.19.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.19\\microsoft.extensions.primitives.3.1.19.nupkg.sha512",
-    "C:\\Users\\Ritu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ritu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -47,7 +47,8 @@
     "C:\\Users\\Ritu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Ritu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Ritu\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+    "C:\\Users\\Ritu\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Ritu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }
